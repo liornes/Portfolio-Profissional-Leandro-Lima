@@ -52,7 +52,10 @@
             "Flexibilidade"
         ]
     },
-    "idiomas": [],
+    "languages": [
+        "Português BR (nativo)",
+        "Ingês (básico)"
+    ],
     "educacao": [],
     "portfolio": [],
     "experiencias": []
