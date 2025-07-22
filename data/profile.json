@@ -6,7 +6,15 @@
     "phone": "(21) 99603-0083",
     "email": "leandroslimajr@gmail.com",
     "skills": {
+        "hardSkills": [
 
+        ],
+        "softSkills": [
+            "Trabalho em equipe",
+            "facilidade de comunicação",
+            "Organização",
+            "Flexibilidade"
+        ]
     },
     "idiomas": [],
     "educacao": [],
