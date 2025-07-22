@@ -7,7 +7,22 @@
     "email": "leandroslimajr@gmail.com",
     "skills": {
         "hardSkills": [
-
+            {
+                "name": "PHP",
+                "logo": ""
+            },
+            {
+                "name": "JavaScript",
+                "logo": ""
+            },
+            {
+                "name": "Mysql",
+                "logo": ""
+            },
+            {
+                "name": "Docker",
+                "logo": ""
+            }
         ],
         "softSkills": [
             "Trabalho em equipe",
