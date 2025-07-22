@@ -2,12 +2,8 @@
     "name": "Leandro da Silva Lima Junior",
     "photo": "https://avatars.githubusercontent.com/u/89042570?v=4",
     "titulo": "Supervisor de TI na Irmãos Benassi",
-    "localidade": {
-        "cidade": "Rio de Janeiro",
-        "Estado": "RJ",
-        "pais": "Brasil"
-    },
-    "telefone": "(21) 99603-0083",
+    "location": "Rio de Janeiro - RJ",
+    "phone": "(21) 99603-0083",
     "email": "leandroslimajr@gmail.com",
     "skills": {
 
