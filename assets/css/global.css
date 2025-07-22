@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Open Sans', 'sans-serif';
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+a {
+    color: #FFF;
+}
+
+.main {
+    margin: .5rem;
+    padding: .5rem;
+    border: 1px solid #FFF;
+    border-radius: 1rem;
+}
+
+.main::before {
+    content: '';
+    background-image: url('/assets/img/background-top.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 140vw;
+    height: 100vh;
+    display: inline-block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.main::after {
+    content: '';
+    display: inline-block;
+    position: fixed;
+    background-image: url('/assets/img/background-top.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 140vw;
+    height: 100vh;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+    transform: rotate(180deg);
+}
+
+.information {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.information p {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 1.125rem;
+}
+
+.information p::before {
+    content: '';
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-right: .5rem;
+}
+
+.information .job::before {
+    background-image: url('/assets/img/icons/job.svg');
+}
+
+.information .location::before {
+    background-image: url('/assets/img/icons/location.svg');
+}
+
+.information .telephone::before {
+    background-image: url('/assets/img/icons/telephone.svg');
+}
+
+.information .email::before {
+    background-image: url('/assets/img/icons/email.svg');
+}
+
+@media only screen and (min-width: 768px) {
+    .main {
+        max-width: 1024px;
+        margin: 1rem auto;
+    }
+
+    .main::before {
+        width: 70vw;
+    }
+
+    .main::after {
+        width: 70vw;
+    }
+}
