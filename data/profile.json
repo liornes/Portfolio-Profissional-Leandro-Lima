@@ -9,20 +9,41 @@
         "hardSkills": [
             {
                 "name": "PHP",
-                "logo": ""
+                "logo": "https://github.com/liornes/Portfolio-Profissional-Leandro-Lima/blob/main/data/imgs/php.png"
             },
             {
                 "name": "JavaScript",
-                "logo": ""
+                "logo": "https://github.com/liornes/Portfolio-Profissional-Leandro-Lima/blob/main/data/imgs/js.png"
+            },
+            {
+                "name": "Node.JS",
+                "logo": "https://github.com/liornes/Portfolio-Profissional-Leandro-Lima/blob/main/data/imgs/nodejs.png"
             },
             {
                 "name": "Mysql",
-                "logo": ""
+                "logo": "https://github.com/liornes/Portfolio-Profissional-Leandro-Lima/blob/main/data/imgs/mysql.png"
             },
             {
                 "name": "Docker",
-                "logo": ""
+                "logo": "https://github.com/liornes/Portfolio-Profissional-Leandro-Lima/blob/main/data/imgs/docker.png"
+            },
+            {
+                "name": "HTML 5",
+                "logo": "https://github.com/liornes/Portfolio-Profissional-Leandro-Lima/blob/main/data/imgs/html.png"
+            },
+            {
+                "name": "CSS 3",
+                "logo": "https://github.com/liornes/Portfolio-Profissional-Leandro-Lima/blob/main/data/imgs/css.png"
+            },
+            {
+                "name": "Git",
+                "logo": "https://github.com/liornes/Portfolio-Profissional-Leandro-Lima/blob/main/data/imgs/git.png"
+            },
+            {
+                "name": "Github",
+                "logo": "https://github.com/liornes/Portfolio-Profissional-Leandro-Lima/blob/main/data/imgs/github.png"
             }
+            
         ],
         "softSkills": [
             "Trabalho em equipe",
