@@ -13,35 +13,35 @@
             },
             {
                 "name": "JavaScript",
-                "logo": "https://github.com/liornes/Portfolio-Profissional-Leandro-Lima/blob/main/data/imgs/js.png"
+                "logo": "https://raw.githubusercontent.com/liornes/Portfolio-Profissional-Leandro-Lima/refs/heads/main/data/imgs/js.png"
             },
             {
                 "name": "Node.JS",
-                "logo": "https://github.com/liornes/Portfolio-Profissional-Leandro-Lima/blob/main/data/imgs/nodejs.png"
+                "logo": "https://raw.githubusercontent.com/liornes/Portfolio-Profissional-Leandro-Lima/refs/heads/main/data/imgs/nodejs.png"
             },
             {
                 "name": "Mysql",
-                "logo": "https://github.com/liornes/Portfolio-Profissional-Leandro-Lima/blob/main/data/imgs/mysql.png"
+                "logo": "https://raw.githubusercontent.com/liornes/Portfolio-Profissional-Leandro-Lima/refs/heads/main/data/imgs/mysql.png"
             },
             {
                 "name": "Docker",
-                "logo": "https://github.com/liornes/Portfolio-Profissional-Leandro-Lima/blob/main/data/imgs/docker.png"
+                "logo": "https://raw.githubusercontent.com/liornes/Portfolio-Profissional-Leandro-Lima/refs/heads/main/data/imgs/docker.png"
             },
             {
                 "name": "HTML 5",
-                "logo": "https://github.com/liornes/Portfolio-Profissional-Leandro-Lima/blob/main/data/imgs/html.png"
+                "logo": "https://raw.githubusercontent.com/liornes/Portfolio-Profissional-Leandro-Lima/refs/heads/main/data/imgs/html.png"
             },
             {
                 "name": "CSS 3",
-                "logo": "https://github.com/liornes/Portfolio-Profissional-Leandro-Lima/blob/main/data/imgs/css.png"
+                "logo": "https://raw.githubusercontent.com/liornes/Portfolio-Profissional-Leandro-Lima/refs/heads/main/data/imgs/css.png"
             },
             {
                 "name": "Git",
-                "logo": "https://github.com/liornes/Portfolio-Profissional-Leandro-Lima/blob/main/data/imgs/git.png"
+                "logo": "https://raw.githubusercontent.com/liornes/Portfolio-Profissional-Leandro-Lima/refs/heads/main/data/imgs/git.png"
             },
             {
                 "name": "Github",
-                "logo": "https://github.com/liornes/Portfolio-Profissional-Leandro-Lima/blob/main/data/imgs/github.png"
+                "logo": "https://raw.githubusercontent.com/liornes/Portfolio-Profissional-Leandro-Lima/refs/heads/main/data/imgs/github.png"
             }
             
         ],
