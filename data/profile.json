@@ -73,5 +73,11 @@
             "git": true
         }
     ],
-    "experiencias": []
+    "professionalExperience": [
+        {
+            "name": "Auxliar de escritório em geral / Rezende Serviços Empresariais LTDA",
+            "period": "01/2015 - 09/2016",
+            "description": "Gestão e triagem de documentos, suporte em processos de admissão e uso do pacote office para elaboração e edição de documentos"
+        }
+    ]
 }
