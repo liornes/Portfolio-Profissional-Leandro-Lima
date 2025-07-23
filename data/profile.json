@@ -63,16 +63,6 @@
             "git": true
         },
         {
-            "name": "Projeto da plataforma DIO para construção de um simulador de mario kart",
-            "url": "https://github.com/liornes/Simulador-corridas-Mario-kart",
-            "git": true
-        },
-        {
-            "name": "Projeto da plataforma DIO para construção de uma pokedex consumindo a pokeapi",
-            "url": "https://github.com/liornes/JS-Developer-Pokedex",
-            "git": true
-        },
-        {
             "name": "Projeto da plataforma DIO para construção de uma pokedex consumindo a pokeapi",
             "url": "https://github.com/liornes/JS-Developer-Pokedex",
             "git": true
