@@ -75,19 +75,34 @@
     ],
     "professionalExperience": [
         {
+            "name": "Analista de informática III / Irmãos Benassi Produtora e Distribuidora de Frutas LTDA",
+            "period": "11/2022 - 08/2024",
+            "description": "Análise e elaboração de relatórios gerenciais das informações do sistema ERP, consultas e gerenciamento no banco de dados Mysql."
+        },
+        {
+            "name": "Técnico de informática BII / Irmãos Benassi Produtora e Distribuidora de Frutas LTDA",
+            "period": "03/2022 - 11/2022",
+            "description": "Suporte Help desk no sistema ERP da empresa, auxilio na gestão de dominios de email e servidores da empresa além de serviços voip e storages de compartilhamento de arquivos."
+        },
+        {
+            "name": "Assistente ADM CIII / Irmãos Benassi Produtora e Distribuidora de Frutas LTDA",
+            "period": "12/2020 - 02/2022",
+            "description": "Manutenção e Instalação de equipamentos de TI (desktops, impressoras), inventário de ativos e periféricos, suporte help desk geral (pacote office, email, sistema)."
+        },
+        {
             "name": "Auxliar comercial / Sathurno Serviços LTDA",
             "period": "09/2018 - 11/2020",
-            "description": "Participação em pregões de compras públicas (leilão) para prestação de serviços terceirizados, elaboração de planilhas proposta no pacote office"
+            "description": "Participação em pregões de compras públicas (leilão) para prestação de serviços terceirizados, elaboração de planilhas proposta no pacote office."
         },
         {
             "name": "Auxliar de escritório em geral / Sermacol Comércio e Serviços LTDA",
             "period": "02/2018 - 05/2019",
-            "description": "Manutenção e Instalação de equipamentos de TI (desktops, impressoras), inventário de ativos e periféricos, suporte help desk geral (pacote office, email, sistema)"
+            "description": "Manutenção e Instalação de equipamentos de TI (desktops, impressoras), inventário de ativos e periféricos, suporte help desk geral (pacote office, email, sistema)."
         },
         {
             "name": "Auxliar de escritório em geral / Rezende Serviços Empresariais LTDA",
             "period": "01/2015 - 09/2016",
-            "description": "Gestão e triagem de documentos, suporte em processos de admissão e uso do pacote office para elaboração e edição de documentos"
+            "description": "Gestão e triagem de documentos, suporte em processos de admissão e uso do pacote office para elaboração e edição de documentos."
         }
     ]
 }

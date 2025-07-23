@@ -23,7 +23,7 @@ a {
 
 .main::before {
     content: '';
-    background-image: url('/assets/img/background-top.svg');
+    background-image: url('../img/background-top.svg');
     background-repeat: no-repeat;
     background-size: contain;
     width: 140vw;
@@ -39,7 +39,7 @@ a {
     content: '';
     display: inline-block;
     position: fixed;
-    background-image: url('/assets/img/background-top.svg');
+    background-image: url('../img/background-top.svg');
     background-repeat: no-repeat;
     background-size: contain;
     width: 140vw;
@@ -75,19 +75,19 @@ a {
 }
 
 .information .job::before {
-    background-image: url('/assets/img/icons/job.svg');
+    background-image: url('../img/icons/job.svg');
 }
 
 .information .location::before {
-    background-image: url('/assets/img/icons/location.svg');
+    background-image: url('../img/icons/location.svg');
 }
 
 .information .telephone::before {
-    background-image: url('/assets/img/icons/telephone.svg');
+    background-image: url('../img/icons/telephone.svg');
 }
 
 .information .email::before {
-    background-image: url('/assets/img/icons/email.svg');
+    background-image: url('../img/icons/email.svg');
 }
 
 @media only screen and (min-width: 768px) {
