@@ -56,7 +56,32 @@
         "Português BR (nativo)",
         "Inglês (básico)"
     ],
-    "educacao": [],
-    "portfolio": [],
+    "portfolio": [
+        {
+            "name": "Projeto da plataforma DIO para construção de um simulador de mario kart",
+            "url": "https://github.com/liornes/Simulador-corridas-Mario-kart",
+            "git": true
+        },
+        {
+            "name": "Projeto da plataforma DIO para construção de um simulador de mario kart",
+            "url": "https://github.com/liornes/Simulador-corridas-Mario-kart",
+            "git": true
+        },
+        {
+            "name": "Projeto da plataforma DIO para construção de uma pokedex consumindo a pokeapi",
+            "url": "https://github.com/liornes/JS-Developer-Pokedex",
+            "git": true
+        },
+        {
+            "name": "Projeto da plataforma DIO para construção de uma pokedex consumindo a pokeapi",
+            "url": "https://github.com/liornes/JS-Developer-Pokedex",
+            "git": true
+        },
+        {
+            "name": "Projeto da plataforma DIO para construção de uma página HTML utilizando as tags aprendidas",
+            "url": "https://github.com/liornes/trilha-html-modulo-1",
+            "git": true
+        }
+    ],
     "experiencias": []
 }
